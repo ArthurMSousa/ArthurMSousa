@@ -27,12 +27,14 @@ Tecnologias e conhecimentos
 
 Atualmente estudando
 
-☕ Java
-🧩 Programação Orientada a Objetos
-🗄️ Banco de dados e SQL
-🔗 APIs e desenvolvimento backend
-🧪 Testes automatizados
-🌱 Spring Boot
+## Atualmente estudando
+
+- ☕ Java
+- 🧩 Programação Orientada a Objetos
+- 🗄️ Banco de dados e SQL
+- 🔗 APIs e desenvolvimento backend
+- 🧪 Testes automatizados
+- 🌱 Spring Boot
 
 Projetos
 
