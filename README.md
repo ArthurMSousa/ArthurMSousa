@@ -1,10 +1,10 @@
-# Arthur Sousa 👋
+# Arthur Sousa 
 
 **Profissional de Tecnologia | Sistemas Corporativos | Java**
 
-🎓 Bacharel em Sistemas de Informação
-💻 Profissional de tecnologia com experiência em consultoria, suporte e sistemas corporativos
-☕ Atualmente aprofundando meus conhecimentos em Java e desenvolvimento backend.
+Bacharel em Sistemas de Informação
+Profissional de tecnologia com experiência em consultoria, suporte e sistemas corporativos
+Atualmente aprofundando meus conhecimentos em Java e desenvolvimento backend.
 
 ## Sobre mim
 
@@ -29,12 +29,12 @@ Atualmente estudando
 
 ## Atualmente estudando
 
-- ☕ Java
-- 🧩 Programação Orientada a Objetos
-- 🗄️ Banco de dados e SQL
-- 🔗 APIs e desenvolvimento backend
-- 🧪 Testes automatizados
-- 🌱 Spring Boot
+- Java
+- Programação Orientada a Objetos
+- Banco de dados e SQL
+- APIs e desenvolvimento backend
+- Testes automatizados
+- Spring Boot
 
 Projetos
 
